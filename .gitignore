@@ -1,0 +1,8 @@
+# CMake
+build/
+CMakeFiles/
+CMakeCache.txt
+cmake_install
+
+# GNU Autotools
+Makefile
