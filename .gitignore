@@ -2,7 +2,7 @@
 build/
 CMakeFiles/
 CMakeCache.txt
-cmake_install
+cmake_install.cmake
 
 # GNU Autotools
 Makefile
