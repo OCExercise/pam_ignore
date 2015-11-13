@@ -5,7 +5,7 @@ Exercise in writing PAM modules, structuring C/C++ projects, and using CMake to 
 ## Instructions
 
 ```
-$ git clone http://github.com/OCExercise/pam_ignore.github
+$ git clone http://github.com/OCExercise/pam_ignore.git
 $ pushd pam_ignore
 $ cmake .
 $ make
