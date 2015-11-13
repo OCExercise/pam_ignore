@@ -1,5 +1,6 @@
 # CMake
-build/
+build/**
+!build/PLACEHOLDER
 CMakeFiles/
 CMakeCache.txt
 cmake_install.cmake
